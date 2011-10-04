@@ -1,7 +1,7 @@
 # encoding: utf-8
 module SwfobjectHelper
   def swf_path(source)
-    asset_paths.compute_public_path(source, 'swfs')
+    asset_path(source)
   end
 
   def swf_tag(name, options = {})
