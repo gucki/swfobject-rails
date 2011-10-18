@@ -1,0 +1,21 @@
+<%= content_tag :object, attributes.merge(:id => id, :name => id, :classid => "clsid:D27CDB6E-AE6D-11cf-96B8-444553540000") do %>
+  <%= tag :param, :name => "movie", :value => file %>
+  <% params.each do |name, value| %>
+    <%= tag :param, :name => name, :value => value %>
+  <% end %>
+  <!--[if !IE]>-->
+    <%= content_tag :object, attributes.merge(:data => file) do %>
+      <% params.each do |name, value| %>
+        <%= tag :param, :name => name, :value => value %>
+      <% end %>
+      <% if alternate_content %>
+        <!--<![endif]-->
+          <%= raw alternate_content.to_s %>
+        <!--[if !IE]>-->
+      <% end %>
+    <% end %>
+  <!--<![endif]-->
+<% end %>
+<script type="text/javascript">
+  swfobject.registerObject("<%= id %>", "<%= version %>", "<%= swf_path 'expressInstall' %>");
+</script>

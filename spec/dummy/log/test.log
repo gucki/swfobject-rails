@@ -1,0 +1,248 @@
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (11.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (39.9ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:54:51 -0500
+Compiled swfobject-full.js  (1ms)  (pid 21118)
+Compiled swfobject.js  (0ms)  (pid 21118)
+Served asset /swfobject-full.js - 200 OK (15ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:54:51 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:54:51 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:54:51 -0500
+Served asset /expressInstall.swf - 200 OK (4ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:54:51 -0500
+Served asset /expressInstall.swf - 200 OK (0ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (11.5ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.9ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.9ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.9ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:55:29 -0500
+Served asset /swfobject-full.js - 200 OK (4ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:55:29 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:55:29 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:55:29 -0500
+Served asset /expressInstall.swf - 200 OK (1ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:55:29 -0500
+Served asset /expressInstall.swf - 200 OK (0ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (11.5ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.9ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.9ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.9ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Compiled swfobject.js  (0ms)  (pid 21179)
+Compiled swfobject-full.js  (1ms)  (pid 21179)
+Served asset /swfobject-full.js - 200 OK (11ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Compiled swfobject-min.js  (1ms)  (pid 21179)
+Compiled swfobject.min.js  (0ms)  (pid 21179)
+Served asset /swfobject-min.js - 200 OK (54ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Served asset /expressInstall.swf - 200 OK (2ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:56:37 -0500
+Served asset /expressInstall.swf - 200 OK (0ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (11.5ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /swfobject-full.js - 200 OK (4ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /swfobject-min.js - 200 OK (2ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /expressInstall.swf - 200 OK (1ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 19:58:50 -0500
+Served asset /expressInstall.swf - 200 OK (0ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (11.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.6ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.6ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /swfobject-full.js - 200 OK (4ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /swfobject-min.js - 200 OK (2ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /expressInstall.swf - 200 OK (2ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 20:00:25 -0500
+Served asset /expressInstall.swf - 200 OK (0ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (11.5ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.6ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.6ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /swfobject-full.js - 200 OK (4ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /swfobject-min.js - 200 OK (2ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /expressInstall.swf - 200 OK (1ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 20:01:07 -0500
+Served asset /expressInstall.swf - 200 OK (0ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (11.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.8ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+Rendered /Users/Pete/Code/swfobject-rails/app/views/shared/_swfobject.html.erb (0.7ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /swfobject-full.js - 200 OK (4ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-full.js" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /swfobject-full.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /swfobject-min.js - 200 OK (2ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/swfobject-min.js" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /swfobject-min.js - 200 OK (0ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /expressInstall.swf - 200 OK (2ms)
+
+
+Started GET "/assets/expressInstall.swf" for 127.0.0.1 at 2011-10-17 20:11:08 -0500
+Served asset /expressInstall.swf - 200 OK (0ms)
