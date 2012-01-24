@@ -19,7 +19,7 @@ Add to your application.js:
 
     //= require swfobject
 
-Place your SWFs you want to incude somewhere in the rails 3.1 assets directories (ex. app/assets/swfs/...).
+Place your SWFs you want to incude somewhere in the rails assets directories (ex. app/assets/swfs/...).
 
 In your view you can now do:
 
