@@ -1,7 +1,7 @@
-Rails 3.1 Integration for swfobject
+Rails 3.x Integration for swfobject
 ==
 
-This gem integrates [swfobject](http://code.google.com/p/swfobject/) with the Rails 3.1 asset pipeline.
+This gem integrates [swfobject](http://code.google.com/p/swfobject/) with the Rails 3.x asset pipeline. It has been tested with Rails 3.1 and 3.2.
 
 
 Install

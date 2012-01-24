@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Corin Langosch"]
   s.email       = ["info@corinlangosch.com"]
   s.homepage    = "https://github.com/gucki/swfobject-rails"
-  s.summary     = %q{Integration of swfobject with the Rails 3.1 asset pipeline}
-  s.description = %q{This gem integrates swfobject with the Rails 3.1 asset pipeline.}
+  s.summary     = %q{Integration of swfobject with the Rails 3.x asset pipeline}
+  s.description = %q{This gem integrates swfobject with the Rails 3.x asset pipeline.}
 
   s.rubyforge_project = "swfobject-rails"
 
@@ -20,6 +20,6 @@ Gem::Specification.new do |s|
 
   # specify any dependencies here; for example:
   # s.add_development_dependency "rspec"
-  s.add_runtime_dependency "rails", "~>3.1.0"
+  s.add_runtime_dependency "rails", "~>3.2"
 end
 
