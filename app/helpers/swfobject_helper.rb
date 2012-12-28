@@ -40,7 +40,7 @@ module SwfobjectHelper
     javascript_tag(code)
   end
 
-  def swfoject(*args)
+  def swfobject(*args)
     swf_tag(*args)
   end
 end
