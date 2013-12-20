@@ -25,7 +25,7 @@ module SwfobjectHelper
     end
 
     code = "swfobject.embedSWF('%s', '%s', '%s', '%s', '%s', '%s', %s, %s, %s, %s);" % [
-      swf_path("#{name}.swf"),
+      options[:public_path] || swf_path("#{name}.swf"),
       options[:dom_id] || name,
       width,
       height,
@@ -40,7 +40,7 @@ module SwfobjectHelper
     javascript_tag(code)
   end
 
-  def swfoject(*args)
+  def swfobject(*args)
     swf_tag(*args)
   end
 end
